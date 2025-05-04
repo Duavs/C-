@@ -1,0 +1,15 @@
+/Users/john/Projects/C#/deconstructTurples/bin/Debug/net8.0/deconstructTurples
+/Users/john/Projects/C#/deconstructTurples/bin/Debug/net8.0/deconstructTurples.deps.json
+/Users/john/Projects/C#/deconstructTurples/bin/Debug/net8.0/deconstructTurples.runtimeconfig.json
+/Users/john/Projects/C#/deconstructTurples/bin/Debug/net8.0/deconstructTurples.dll
+/Users/john/Projects/C#/deconstructTurples/bin/Debug/net8.0/deconstructTurples.pdb
+/Users/john/Projects/C#/deconstructTurples/obj/Debug/net8.0/deconstructTurples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/john/Projects/C#/deconstructTurples/obj/Debug/net8.0/deconstructTurples.AssemblyInfoInputs.cache
+/Users/john/Projects/C#/deconstructTurples/obj/Debug/net8.0/deconstructTurples.AssemblyInfo.cs
+/Users/john/Projects/C#/deconstructTurples/obj/Debug/net8.0/deconstructTurples.csproj.CoreCompileInputs.cache
+/Users/john/Projects/C#/deconstructTurples/obj/Debug/net8.0/deconstructTurples.sourcelink.json
+/Users/john/Projects/C#/deconstructTurples/obj/Debug/net8.0/deconstructTurples.dll
+/Users/john/Projects/C#/deconstructTurples/obj/Debug/net8.0/refint/deconstructTurples.dll
+/Users/john/Projects/C#/deconstructTurples/obj/Debug/net8.0/deconstructTurples.pdb
+/Users/john/Projects/C#/deconstructTurples/obj/Debug/net8.0/deconstructTurples.genruntimeconfig.cache
+/Users/john/Projects/C#/deconstructTurples/obj/Debug/net8.0/ref/deconstructTurples.dll
