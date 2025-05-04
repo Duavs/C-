@@ -1,0 +1,15 @@
+/Users/john/Projects/C#/NumberLiterals/bin/Debug/net8.0/NumberLiterals
+/Users/john/Projects/C#/NumberLiterals/bin/Debug/net8.0/NumberLiterals.deps.json
+/Users/john/Projects/C#/NumberLiterals/bin/Debug/net8.0/NumberLiterals.runtimeconfig.json
+/Users/john/Projects/C#/NumberLiterals/bin/Debug/net8.0/NumberLiterals.dll
+/Users/john/Projects/C#/NumberLiterals/bin/Debug/net8.0/NumberLiterals.pdb
+/Users/john/Projects/C#/NumberLiterals/obj/Debug/net8.0/NumberLiterals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/john/Projects/C#/NumberLiterals/obj/Debug/net8.0/NumberLiterals.AssemblyInfoInputs.cache
+/Users/john/Projects/C#/NumberLiterals/obj/Debug/net8.0/NumberLiterals.AssemblyInfo.cs
+/Users/john/Projects/C#/NumberLiterals/obj/Debug/net8.0/NumberLiterals.csproj.CoreCompileInputs.cache
+/Users/john/Projects/C#/NumberLiterals/obj/Debug/net8.0/NumberLiterals.sourcelink.json
+/Users/john/Projects/C#/NumberLiterals/obj/Debug/net8.0/NumberLiterals.dll
+/Users/john/Projects/C#/NumberLiterals/obj/Debug/net8.0/refint/NumberLiterals.dll
+/Users/john/Projects/C#/NumberLiterals/obj/Debug/net8.0/NumberLiterals.pdb
+/Users/john/Projects/C#/NumberLiterals/obj/Debug/net8.0/NumberLiterals.genruntimeconfig.cache
+/Users/john/Projects/C#/NumberLiterals/obj/Debug/net8.0/ref/NumberLiterals.dll
