@@ -1,0 +1,15 @@
+/Users/john/Projects/C#/NullOperator/bin/Debug/net8.0/NullOperator
+/Users/john/Projects/C#/NullOperator/bin/Debug/net8.0/NullOperator.deps.json
+/Users/john/Projects/C#/NullOperator/bin/Debug/net8.0/NullOperator.runtimeconfig.json
+/Users/john/Projects/C#/NullOperator/bin/Debug/net8.0/NullOperator.dll
+/Users/john/Projects/C#/NullOperator/bin/Debug/net8.0/NullOperator.pdb
+/Users/john/Projects/C#/NullOperator/obj/Debug/net8.0/NullOperator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/john/Projects/C#/NullOperator/obj/Debug/net8.0/NullOperator.AssemblyInfoInputs.cache
+/Users/john/Projects/C#/NullOperator/obj/Debug/net8.0/NullOperator.AssemblyInfo.cs
+/Users/john/Projects/C#/NullOperator/obj/Debug/net8.0/NullOperator.csproj.CoreCompileInputs.cache
+/Users/john/Projects/C#/NullOperator/obj/Debug/net8.0/NullOperator.sourcelink.json
+/Users/john/Projects/C#/NullOperator/obj/Debug/net8.0/NullOperator.dll
+/Users/john/Projects/C#/NullOperator/obj/Debug/net8.0/refint/NullOperator.dll
+/Users/john/Projects/C#/NullOperator/obj/Debug/net8.0/NullOperator.pdb
+/Users/john/Projects/C#/NullOperator/obj/Debug/net8.0/NullOperator.genruntimeconfig.cache
+/Users/john/Projects/C#/NullOperator/obj/Debug/net8.0/ref/NullOperator.dll
