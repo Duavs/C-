@@ -1,0 +1,15 @@
+/Users/john/Projects/C#/IndexesRanges/obj/Debug/net8.0/IndexesRanges.GeneratedMSBuildEditorConfig.editorconfig
+/Users/john/Projects/C#/IndexesRanges/obj/Debug/net8.0/IndexesRanges.AssemblyInfoInputs.cache
+/Users/john/Projects/C#/IndexesRanges/obj/Debug/net8.0/IndexesRanges.AssemblyInfo.cs
+/Users/john/Projects/C#/IndexesRanges/obj/Debug/net8.0/IndexesRanges.csproj.CoreCompileInputs.cache
+/Users/john/Projects/C#/IndexesRanges/obj/Debug/net8.0/IndexesRanges.sourcelink.json
+/Users/john/Projects/C#/IndexesRanges/bin/Debug/net8.0/IndexesRanges
+/Users/john/Projects/C#/IndexesRanges/bin/Debug/net8.0/IndexesRanges.deps.json
+/Users/john/Projects/C#/IndexesRanges/bin/Debug/net8.0/IndexesRanges.runtimeconfig.json
+/Users/john/Projects/C#/IndexesRanges/bin/Debug/net8.0/IndexesRanges.dll
+/Users/john/Projects/C#/IndexesRanges/bin/Debug/net8.0/IndexesRanges.pdb
+/Users/john/Projects/C#/IndexesRanges/obj/Debug/net8.0/IndexesRanges.dll
+/Users/john/Projects/C#/IndexesRanges/obj/Debug/net8.0/refint/IndexesRanges.dll
+/Users/john/Projects/C#/IndexesRanges/obj/Debug/net8.0/IndexesRanges.pdb
+/Users/john/Projects/C#/IndexesRanges/obj/Debug/net8.0/IndexesRanges.genruntimeconfig.cache
+/Users/john/Projects/C#/IndexesRanges/obj/Debug/net8.0/ref/IndexesRanges.dll
