@@ -1,0 +1,15 @@
+/Users/john/Projects/C#/DeconstructCustom/obj/Debug/net8.0/DeconstructCustom.GeneratedMSBuildEditorConfig.editorconfig
+/Users/john/Projects/C#/DeconstructCustom/obj/Debug/net8.0/DeconstructCustom.AssemblyInfoInputs.cache
+/Users/john/Projects/C#/DeconstructCustom/obj/Debug/net8.0/DeconstructCustom.AssemblyInfo.cs
+/Users/john/Projects/C#/DeconstructCustom/obj/Debug/net8.0/DeconstructCustom.csproj.CoreCompileInputs.cache
+/Users/john/Projects/C#/DeconstructCustom/obj/Debug/net8.0/DeconstructCustom.sourcelink.json
+/Users/john/Projects/C#/DeconstructCustom/bin/Debug/net8.0/DeconstructCustom
+/Users/john/Projects/C#/DeconstructCustom/bin/Debug/net8.0/DeconstructCustom.deps.json
+/Users/john/Projects/C#/DeconstructCustom/bin/Debug/net8.0/DeconstructCustom.runtimeconfig.json
+/Users/john/Projects/C#/DeconstructCustom/bin/Debug/net8.0/DeconstructCustom.dll
+/Users/john/Projects/C#/DeconstructCustom/bin/Debug/net8.0/DeconstructCustom.pdb
+/Users/john/Projects/C#/DeconstructCustom/obj/Debug/net8.0/DeconstructCustom.dll
+/Users/john/Projects/C#/DeconstructCustom/obj/Debug/net8.0/refint/DeconstructCustom.dll
+/Users/john/Projects/C#/DeconstructCustom/obj/Debug/net8.0/DeconstructCustom.pdb
+/Users/john/Projects/C#/DeconstructCustom/obj/Debug/net8.0/DeconstructCustom.genruntimeconfig.cache
+/Users/john/Projects/C#/DeconstructCustom/obj/Debug/net8.0/ref/DeconstructCustom.dll
