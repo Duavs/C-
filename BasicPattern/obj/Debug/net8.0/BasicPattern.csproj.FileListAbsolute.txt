@@ -1,0 +1,15 @@
+/Users/john/Projects/C#/BasicPattern/bin/Debug/net8.0/BasicPattern
+/Users/john/Projects/C#/BasicPattern/bin/Debug/net8.0/BasicPattern.deps.json
+/Users/john/Projects/C#/BasicPattern/bin/Debug/net8.0/BasicPattern.runtimeconfig.json
+/Users/john/Projects/C#/BasicPattern/bin/Debug/net8.0/BasicPattern.dll
+/Users/john/Projects/C#/BasicPattern/bin/Debug/net8.0/BasicPattern.pdb
+/Users/john/Projects/C#/BasicPattern/obj/Debug/net8.0/BasicPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/john/Projects/C#/BasicPattern/obj/Debug/net8.0/BasicPattern.AssemblyInfoInputs.cache
+/Users/john/Projects/C#/BasicPattern/obj/Debug/net8.0/BasicPattern.AssemblyInfo.cs
+/Users/john/Projects/C#/BasicPattern/obj/Debug/net8.0/BasicPattern.csproj.CoreCompileInputs.cache
+/Users/john/Projects/C#/BasicPattern/obj/Debug/net8.0/BasicPattern.sourcelink.json
+/Users/john/Projects/C#/BasicPattern/obj/Debug/net8.0/BasicPattern.dll
+/Users/john/Projects/C#/BasicPattern/obj/Debug/net8.0/refint/BasicPattern.dll
+/Users/john/Projects/C#/BasicPattern/obj/Debug/net8.0/BasicPattern.pdb
+/Users/john/Projects/C#/BasicPattern/obj/Debug/net8.0/BasicPattern.genruntimeconfig.cache
+/Users/john/Projects/C#/BasicPattern/obj/Debug/net8.0/ref/BasicPattern.dll
