@@ -51,7 +51,18 @@ void dashedline(object o)
     }
 }
 
-dashedline(25);
+/*dashedline(25);
 dashedline("50");
-dashedline(20.5);
+dashedline(20.5);*/
 
+//Property pattern examines the properties of an object
+bool IsTheIdestOfMarch(DateTime date)
+{
+    //test the month and day properties
+    return (date is { Month: 3, Day: 15 });
+}
+
+Console.WriteLine(IsTheIdestOfMarch(new DateTime(2023, 3, 15))); // true
+Console.WriteLine(IsTheIdestOfMarch(new DateTime(2023, 3, 16))); // false
+Console.WriteLine(IsTheIdestOfMarch(new DateTime(2023, 2, 15))); // false
+Console.WriteLine(IsTheIdestOfMarch(new DateTime(2023, 3, 14))); // false
