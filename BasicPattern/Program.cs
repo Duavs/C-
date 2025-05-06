@@ -18,8 +18,8 @@
 void dashedline(object o)
 {
     // the old wa of doing this
-    int l = 0;
-    if (o.GetType() == typeof(int))
+   // int l = 0;
+    /*if (o.GetType() == typeof(int))
     {
         l = (int)o;
     }
@@ -41,12 +41,17 @@ void dashedline(object o)
             Console.WriteLine(str);
         }
     }
+    */
     
     //TODO: The new way is to just use the declaration pattern
-    if (o is int l || (o is string s && int.Tryparse(s, out l)))
+    if (o is int l || (o is string s && int.TryParse(s, out l)))
     {
         string str = new string('-', l);
         Console.WriteLine(str);
     }
 }
+
+dashedline(25);
+dashedline("50");
+dashedline(20.5);
 
