@@ -1,0 +1,5 @@
+/Users/john/Projects/C#/SwitchExpression/obj/Debug/net8.0/SwitchExpression.GeneratedMSBuildEditorConfig.editorconfig
+/Users/john/Projects/C#/SwitchExpression/obj/Debug/net8.0/SwitchExpression.AssemblyInfoInputs.cache
+/Users/john/Projects/C#/SwitchExpression/obj/Debug/net8.0/SwitchExpression.AssemblyInfo.cs
+/Users/john/Projects/C#/SwitchExpression/obj/Debug/net8.0/SwitchExpression.csproj.CoreCompileInputs.cache
+/Users/john/Projects/C#/SwitchExpression/obj/Debug/net8.0/SwitchExpression.sourcelink.json
