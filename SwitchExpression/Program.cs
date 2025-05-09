@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-/*string NumToString(int num){
+string NumToString(int num){
 	switch (num)
     {
         case 1:
@@ -11,7 +11,7 @@
         default:
             return "Unknown";
     }
-} */
+} 
 //Console.WriteLine(NumToString(2));
 //Console.WriteLine(NumToString(4));
 
