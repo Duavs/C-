@@ -3,3 +3,13 @@
 /Users/john/Projects/C#/SwitchExpression/obj/Debug/net8.0/SwitchExpression.AssemblyInfo.cs
 /Users/john/Projects/C#/SwitchExpression/obj/Debug/net8.0/SwitchExpression.csproj.CoreCompileInputs.cache
 /Users/john/Projects/C#/SwitchExpression/obj/Debug/net8.0/SwitchExpression.sourcelink.json
+/Users/john/Projects/C#/SwitchExpression/bin/Debug/net8.0/SwitchExpression
+/Users/john/Projects/C#/SwitchExpression/bin/Debug/net8.0/SwitchExpression.deps.json
+/Users/john/Projects/C#/SwitchExpression/bin/Debug/net8.0/SwitchExpression.runtimeconfig.json
+/Users/john/Projects/C#/SwitchExpression/bin/Debug/net8.0/SwitchExpression.dll
+/Users/john/Projects/C#/SwitchExpression/bin/Debug/net8.0/SwitchExpression.pdb
+/Users/john/Projects/C#/SwitchExpression/obj/Debug/net8.0/SwitchExpression.dll
+/Users/john/Projects/C#/SwitchExpression/obj/Debug/net8.0/refint/SwitchExpression.dll
+/Users/john/Projects/C#/SwitchExpression/obj/Debug/net8.0/SwitchExpression.pdb
+/Users/john/Projects/C#/SwitchExpression/obj/Debug/net8.0/SwitchExpression.genruntimeconfig.cache
+/Users/john/Projects/C#/SwitchExpression/obj/Debug/net8.0/ref/SwitchExpression.dll
