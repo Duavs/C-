@@ -2,20 +2,20 @@ namespace DefaultNamespace;
 
 public class Shapes
 {
-    public class Rectangle
-    {
-        public int Length { get; set; }
-        public int Width { get; set; }
-    }
-
     public class Circle
     {
-        public int Radius { get; set; }
+        public int Radius;
     }
-    
+
+    public class Rectangle
+    {
+        public int Length;
+        public int Width;
+    }
+
     public class Triangle
     {
-        public int Base { get; set; }
-        public int Height { get; set; }
+        public int Base;
+        public int Height;
     }
 }
