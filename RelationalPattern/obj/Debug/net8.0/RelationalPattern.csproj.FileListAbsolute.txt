@@ -1,0 +1,15 @@
+/Users/john/Projects/C#/RelationalPattern/obj/Debug/net8.0/RelationalPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/john/Projects/C#/RelationalPattern/obj/Debug/net8.0/RelationalPattern.AssemblyInfoInputs.cache
+/Users/john/Projects/C#/RelationalPattern/obj/Debug/net8.0/RelationalPattern.AssemblyInfo.cs
+/Users/john/Projects/C#/RelationalPattern/obj/Debug/net8.0/RelationalPattern.csproj.CoreCompileInputs.cache
+/Users/john/Projects/C#/RelationalPattern/obj/Debug/net8.0/RelationalPattern.sourcelink.json
+/Users/john/Projects/C#/RelationalPattern/bin/Debug/net8.0/RelationalPattern
+/Users/john/Projects/C#/RelationalPattern/bin/Debug/net8.0/RelationalPattern.deps.json
+/Users/john/Projects/C#/RelationalPattern/bin/Debug/net8.0/RelationalPattern.runtimeconfig.json
+/Users/john/Projects/C#/RelationalPattern/bin/Debug/net8.0/RelationalPattern.dll
+/Users/john/Projects/C#/RelationalPattern/bin/Debug/net8.0/RelationalPattern.pdb
+/Users/john/Projects/C#/RelationalPattern/obj/Debug/net8.0/RelationalPattern.dll
+/Users/john/Projects/C#/RelationalPattern/obj/Debug/net8.0/refint/RelationalPattern.dll
+/Users/john/Projects/C#/RelationalPattern/obj/Debug/net8.0/RelationalPattern.pdb
+/Users/john/Projects/C#/RelationalPattern/obj/Debug/net8.0/RelationalPattern.genruntimeconfig.cache
+/Users/john/Projects/C#/RelationalPattern/obj/Debug/net8.0/ref/RelationalPattern.dll
