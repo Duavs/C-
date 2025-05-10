@@ -1,0 +1,15 @@
+/Users/john/Projects/C#/PositionalPattern/obj/Debug/net8.0/PositionalPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/john/Projects/C#/PositionalPattern/obj/Debug/net8.0/PositionalPattern.AssemblyInfoInputs.cache
+/Users/john/Projects/C#/PositionalPattern/obj/Debug/net8.0/PositionalPattern.AssemblyInfo.cs
+/Users/john/Projects/C#/PositionalPattern/obj/Debug/net8.0/PositionalPattern.csproj.CoreCompileInputs.cache
+/Users/john/Projects/C#/PositionalPattern/obj/Debug/net8.0/PositionalPattern.sourcelink.json
+/Users/john/Projects/C#/PositionalPattern/bin/Debug/net8.0/PositionalPattern
+/Users/john/Projects/C#/PositionalPattern/bin/Debug/net8.0/PositionalPattern.deps.json
+/Users/john/Projects/C#/PositionalPattern/bin/Debug/net8.0/PositionalPattern.runtimeconfig.json
+/Users/john/Projects/C#/PositionalPattern/bin/Debug/net8.0/PositionalPattern.dll
+/Users/john/Projects/C#/PositionalPattern/bin/Debug/net8.0/PositionalPattern.pdb
+/Users/john/Projects/C#/PositionalPattern/obj/Debug/net8.0/PositionalPattern.dll
+/Users/john/Projects/C#/PositionalPattern/obj/Debug/net8.0/refint/PositionalPattern.dll
+/Users/john/Projects/C#/PositionalPattern/obj/Debug/net8.0/PositionalPattern.pdb
+/Users/john/Projects/C#/PositionalPattern/obj/Debug/net8.0/PositionalPattern.genruntimeconfig.cache
+/Users/john/Projects/C#/PositionalPattern/obj/Debug/net8.0/ref/PositionalPattern.dll
