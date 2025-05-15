@@ -37,4 +37,37 @@ public class StockRecords
     {
         get => prices[index];
     }
+
+    public decimal this[string day]
+    {
+        get
+        {
+            if (day == "mon")
+            {
+                return prices[0];
+            }
+
+            if (day == "tue")
+            {
+                return prices[1];
+            }
+
+            if (day == "wed")
+            {
+                return prices[2];
+            }
+
+            if (day == "thu")
+            {
+                return prices[3];
+            }
+
+            if (day == "fri")
+            {
+                return prices[4];
+            }
+    
+            throw new IndexOutOfRangeException($"Invalid day: {day}");
+        }
+    }  
 }
