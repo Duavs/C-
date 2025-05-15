@@ -3,3 +3,13 @@
 /Users/john/Projects/C#/Classes/Indexers/obj/Debug/net8.0/Indexers.AssemblyInfo.cs
 /Users/john/Projects/C#/Classes/Indexers/obj/Debug/net8.0/Indexers.csproj.CoreCompileInputs.cache
 /Users/john/Projects/C#/Classes/Indexers/obj/Debug/net8.0/Indexers.sourcelink.json
+/Users/john/Projects/C#/Classes/Indexers/bin/Debug/net8.0/Indexers
+/Users/john/Projects/C#/Classes/Indexers/bin/Debug/net8.0/Indexers.deps.json
+/Users/john/Projects/C#/Classes/Indexers/bin/Debug/net8.0/Indexers.runtimeconfig.json
+/Users/john/Projects/C#/Classes/Indexers/bin/Debug/net8.0/Indexers.dll
+/Users/john/Projects/C#/Classes/Indexers/bin/Debug/net8.0/Indexers.pdb
+/Users/john/Projects/C#/Classes/Indexers/obj/Debug/net8.0/Indexers.dll
+/Users/john/Projects/C#/Classes/Indexers/obj/Debug/net8.0/refint/Indexers.dll
+/Users/john/Projects/C#/Classes/Indexers/obj/Debug/net8.0/Indexers.pdb
+/Users/john/Projects/C#/Classes/Indexers/obj/Debug/net8.0/Indexers.genruntimeconfig.cache
+/Users/john/Projects/C#/Classes/Indexers/obj/Debug/net8.0/ref/Indexers.dll
